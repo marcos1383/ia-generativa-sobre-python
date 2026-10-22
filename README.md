@@ -1,5 +1,11 @@
 # 🤖 ia-generativa-sobre-python 🤖
 
+- Guia do Python [Slide de apresentação](https://notebooklm.link.google/QNXkWZ4oSBZw).
+- Por que o Python domina a programação atual [Vídeo explicativo](https://notebooklm.link.google/qGkLwewkz834).
+- Recursos e conceitos principais de Python [Tabela de Dados](https://notebooklm.link.google/K98GRhLwztQy).
+- Python Flashcards [Cards](https://notebooklm.link.google/39XJXwtDP95t).
+- Python MapaMental [MapaMental](https://notebooklm.link.google/RTUlvlUwQBsn).
+
 🐍 Fundamentos da Programação Python.<br>
 Este repositório e caderno de estudos reúne um ecossistema abrangente de materiais sobre a Linguagem de Programação Python.<br>
 O objetivo principal é guiar estudantes e desenvolvedores desde os primeiros passos na lógica de programação até conceitos intermediários e avançados de desenvolvimento de software, automação e inteligência artificial.
