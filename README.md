@@ -1,5 +1,7 @@
 # 🤖 ia-generativa-sobre-python 🤖
 
+  ### *Meu Gemini Notebook [NotebookLM](https://notebook.google.com/notebook/8b33dacf-8e7b-4195-8917-d6608ffb33ec)*
+
 - Guia do Python [Slide de apresentação](https://notebooklm.link.google/QNXkWZ4oSBZw).
 - Por que o Python domina a programação atual [Vídeo explicativo](https://notebooklm.link.google/qGkLwewkz834).
 - Recursos e conceitos principais de Python [Tabela de Dados](https://notebooklm.link.google/K98GRhLwztQy).
@@ -60,4 +62,4 @@ O ecossistema conta com os seguintes materiais interativos gerados para apoiar s
   - 🎬 Por Que o Python Domina a Programação Atual (Vídeo Overview): Resumo audiovisual destacando os diferenciais da linguagem e oportunidades de carreira.<br>
 
 
-  ### Resumo do desafio proposto no curso: Treinando uma IA de Aprendizagem: Explore o Poder do NotebookLM.
+  _Resumo do desafio proposto no curso: Treinando uma IA de Aprendizagem: Explore o Poder do NotebookLM._
